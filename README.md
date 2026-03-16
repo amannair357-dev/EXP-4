@@ -51,13 +51,13 @@ Rectifier efficiency is defined as the ratio of DC output power to the input pow
 ## TABULAR COLUMN
 
 ### Rectifier without filter
-
+![image alt](111.jpeg)
 
 ## TABULAR COLUMN
 
 ### Rectifier with filter
 
-
+![image alt](222.jpeg)
 
 ## WAVEFORM:
 
